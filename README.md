@@ -1,0 +1,2 @@
+# Midori_SAT
+軽量暗号であるMidoriを評価するためにSATを用いた。その際におけるSATのコード
